@@ -137,7 +137,7 @@ function Desktop() {
                                     <a href="#about" level={3} style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Why MailMergeX?</a>
                                 </Col>
                                 <Col>
-                                    <a href="#policy" style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Terms</a>
+                                    <a href="#terms" style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Terms</a>
                                 </Col>
                             </Row>
                         </Col>
@@ -231,7 +231,7 @@ function Desktop() {
                 <SectionList sectionList={state.sectionList} />
             </section>
 
-            <section id="policy">
+            <section id="terms">
                 {/* policies */}
                 <Row justify='center' align='middle' style={{'backgroundColor': 'white', 'height': '500px', 'padding': '100px'}}>
                 <Row justify='left' align='top' style={{'maxWidth': '2000px', 'width': '100%'}}>

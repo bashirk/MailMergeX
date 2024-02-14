@@ -25,9 +25,9 @@ import discordImage from '../images/discord.png'
 
 export const initialState = {
     // when in dev, change appURL to local url
-    appURL: 'http://localhost:3000',  
+    // appURL: 'http://localhost:3000',  
     // when in production, change appURL to real url
-    // appURL: 'https://amplichat.com',
+    appURL: 'https://mail-merge-x.vercel.app',
 
     appLogo: appLogo,
     appName: 'MailMergeX',
