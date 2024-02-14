@@ -128,16 +128,16 @@ function Desktop() {
                         <Col span={20}>
                             <Row gutter={[16, 0]} justify='center' align='middle'>
                                 <Col>
-                                    <a href="#pricing" level={3} style={{ color: 'black', marginLeft: '20px' }}>Pricing</a>
+                                    <a href="#pricing" level={3} style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Pricing</a>
                                 </Col>
                                 <Col>
-                                    <a href="#partners" style={{ color: 'black', marginLeft: '20px' }}>Partners</a>
+                                    <a href="#partners" style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Partners</a>
                                 </Col>
                                 <Col>
-                                    <a href="#about" level={3} style={{ color: 'black', marginLeft: '20px' }}>Why MailMergeX?</a>
+                                    <a href="#about" level={3} style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Why MailMergeX?</a>
                                 </Col>
                                 <Col>
-                                    <a href="#policy" style={{ color: 'black', marginLeft: '20px' }}>Terms</a>
+                                    <a href="#policy" style={{ color: 'black', marginLeft: '20px', fontSize: '20px', fontWeight: 'bold' }}>Terms</a>
                                 </Col>
                             </Row>
                         </Col>
