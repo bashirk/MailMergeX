@@ -5,7 +5,7 @@ import appLogo from '../images/amplichat.png'
 import appleStoreBadge from '../images/apple_store_badge.svg'
 import googlePlayBadge from '../images/google_play_badge.png'
 
-import coverImage from '../images/amplichat_iphones_two.png'
+import coverImage from '../images/appbannerweb.png'
 
 // endorsement images
 import dreamhub_filled from '../images/dreamhub_filled.png'
