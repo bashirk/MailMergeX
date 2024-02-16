@@ -3,7 +3,7 @@ import React from 'react'
 import appLogo from '../images/amplichat.png'
 
 import appleStoreBadge from '../images/apple_store_badge.svg'
-import googlePlayBadge from '../images/google_play_badge.png'
+import googlePlayBadge from '../images/GWMlogo.jpg'
 
 import coverImage from '../images/appbannerweb.png'
 
