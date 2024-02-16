@@ -18,7 +18,7 @@ function Privacy() {
                 </Typography.Title>
 
                 <Typography.Paragraph>
-                    Welcome to MailMergeX ("MailMergeX", "we", "us", or "our"). MailMergeX is committed to protecting your privacy and ensuring that your personal information is handled safely and responsibly. This Privacy Policy ("Policy") explains how we collect, use, and disclose your personal information when you use our services, including our website at https://mailmergex.com ("Website") and any related services, features, and content (collectively, the "Services").
+                    Welcome to MailMergeX ("MailMergeX", "we", "us", or "our"). MailMergeX is committed to protecting your privacy and ensuring that your personal information is handled safely and responsibly. This Privacy Policy ("Policy") explains how we collect, use, and disclose your personal information when you use our services, including our website at https://mail-merge-x.vercel.app ("Website") and any related services, features, and content (collectively, the "Services").
                 </Typography.Paragraph>
 
                 <Typography.Paragraph>
