@@ -33,7 +33,7 @@ export const initialState = {
     appName: 'MailMergeX',
 
     coverTitle: 'MailMergeX: Simplify Your Email Campaigns with Ease',
-    coverText: 'Effortlessly Send Personalized Emails from Google Workspace apps like Sheets, Docs, and Slides.',
+    coverText: 'Effortlessly Send Personalized Emails from Google Workspace™ apps like Sheets™, Docs™, and Slides™.',
     appleStoreBadge: appleStoreBadge,
     appleStoreLink: 'https://apps.apple.com/us/app/amplichat/id1499570373',
     googlePlayBadge: googlePlayBadge,
@@ -67,12 +67,12 @@ export const initialState = {
     sectionList: [
         {
             'title': `Welcome to MailMergeX: Your Email Campaign Solution`,
-            'text': `MailMergeX is the ultimate solution for simplifying your email campaigns directly from your Google Sheets. With MailMergeX, you can effortlessly send personalized emails to your contacts, saving time and maximizing efficiency.`,
+            'text': `MailMergeX is the ultimate solution for simplifying your email campaigns directly from your Google Sheets™. With MailMergeX, you can effortlessly send personalized emails to your contacts, saving time and maximizing efficiency.`,
             'image': guitar,
         },
         {
             'title': `Streamline Your Workflow`,
-            'text': `Say goodbye to limited mailing tools and manual email merges, and say hello to streamlined workflows. MailMergeX seamlessly integrates with Google Sheets, allowing you to send personalized emails directly from your spreadsheet. Spend less time on repetitive tasks and more time focusing on what matters most – building meaningful connections with your audience.`,
+            'text': `Say goodbye to limited mailing tools and manual email merges, and say hello to streamlined workflows. MailMergeX seamlessly integrates with Google Sheets™, allowing you to send personalized emails directly from your spreadsheet. Spend less time on repetitive tasks and more time focusing on what matters most – building meaningful connections with your audience.`,
             'image': event_phones,
         },
         {

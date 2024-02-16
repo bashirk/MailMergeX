@@ -10,7 +10,7 @@ function Terms() {
                 </Typography.Title>
 
                 <Typography.Paragraph>
-                Last updated: May 9, 2023
+                Last updated: February 15, 2024
                 </Typography.Paragraph>
 
 
@@ -19,7 +19,7 @@ function Terms() {
                 </Typography.Title>
 
                 <Typography.Paragraph>
-                These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Amplichat LLC ("Company", “we”, “us”, or “our”), concerning your access to and use of the <a href='https://amplichat.com' rel="noopener noreferrer" target='_blank' style={{'color': 'blue'}}>https://amplichat.com</a> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+                These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and MailMergeX ("Company", “we”, “us”, or “our”), concerning your access to and use of the <a href='https://mail-merge-x.vercel.app' rel="noopener noreferrer" target='_blank' style={{'color': 'blue'}}>https://mail-merge-x.vercel.app</a> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
                 </Typography.Paragraph>
 
                 <Typography.Paragraph>
@@ -244,13 +244,13 @@ function Terms() {
                 We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
                 </Typography.Paragraph>
 
-                <Typography.Title level={3}>
+                {/* <Typography.Title level={3}>
                 GOVERNING LAW
                 </Typography.Title>
 
                 <Typography.Paragraph>
-                These Terms shall be governed by and defined following the laws of the state of California and applicable United States law. Amplichat LLC and yourself irrevocably consent that the courts of Santa Clara County shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
-                </Typography.Paragraph>
+                These Terms shall be governed by and defined following the laws of the state of California and applicable United States law. MailMergeX and yourself irrevocably consent that the courts of Santa Clara County shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+                </Typography.Paragraph> */}
 
                 <Typography.Title level={3}>
                 DISPUTE RESOLUTION
