@@ -4,6 +4,7 @@ import appLogo from '../images/amplichat.png'
 
 import appleStoreBadge from '../images/apple_store_badge.svg'
 import googlePlayBadge from '../images/GWMlogo.jpg'
+// https://lh3.googleusercontent.com/-zViuS6r06Tc/Zc-gldEIJVI/AAAAAAAALTg/5WDjCEY8qTI6LcoXWRVgtbYCb5x-ORq5QCNcBGAsYHQ/s400/GWMlogo.jpg
 
 import coverImage from '../images/appbannerweb.png'
 
